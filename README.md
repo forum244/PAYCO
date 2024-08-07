@@ -11,8 +11,6 @@
     <br />
     <br />
     <a href="https://t.me/forumkt">Hubungi di telegram</a>
-    ·
-    <a href="https://github.com/agathasangkara/Payco_temp/issues">Report Bugs</a>
     
   </p>
 </div>
