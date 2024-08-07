@@ -1,10 +1,23 @@
 <br/>
 <div align="center">
   <a href="https://github.com/agathasangkara/Payco_temp">
-      <img src="https://cdn6.aptoide.com/imgs/f/2/f/f2f38cb075803b8d27f68e24a7e8d299_icon.png?w=128" alt="Logo" width="200" height="200">
-        </a>
-        <h2 align="center">Payco Automator Bot</h3>
-          <p align="center">
+    <img src="https://cdn6.aptoide.com/imgs/f/2/f/f2f38cb075803b8d27f68e24a7e8d299_icon.png?w=128" alt="Logo" width="200" height="200">
+  </a>
+  
+  <h2 align="center">Payco Automator Bot</h3>
+
+  <p align="center">
+    Payco auto creates + Auto Confirmation Email</b>
+    <br />
+    <br />
+    <a href="https://t.me/forumkt">Hubungi di telegram</a>
+    ·
+    <a href="https://github.com/agathasangkara/Payco_temp/issues">Report Bugs</a>
+    
+  </p>
+</div>
+  
+---------------------------------------
 
 Instalasi BOT PAYCO
 
@@ -12,24 +25,18 @@ Instalasi BOT PAYCO
 2. Jalankan perintah berikut:
 
 $ pkg update && pkg upgrade
-
 $ pkg install git
-
 $ pkg install python3
-
 $ git clone https://github.com/forum244/PAYCO
-
 $ cd PAYCO
-
 $ pip install -r requirements.txt
-
 $ python main.py
 
-3. Buat password PAYCO dan Input License key saat diminta. Hubungi https://t.me/forumkt
+3. Buat password PAYCO dan Input License key saat diminta.
 4. Setelah selesai Muncul Logo PAYCO, 
 5. Tutup atau paksa berhenti aplikasi Termux.
 
 Untuk membuka kembali, jalankan perintah berikut:
 
 $ cd PAYCO
-$ python main.py
+$ python main py
