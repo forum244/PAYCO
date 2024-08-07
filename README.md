@@ -1,3 +1,11 @@
+<br/>
+<div align="center">
+  <a href="https://github.com/agathasangkara/Payco_temp">
+      <img src="https://cdn6.aptoide.com/imgs/f/2/f/f2f38cb075803b8d27f68e24a7e8d299_icon.png?w=128" alt="Logo" width="200" height="200">
+        </a>
+        <h2 align="center">Payco Automator Bot</h3>
+          <p align="center">
+
 Instalasi BOT PAYCO
 
 1. Buka Termux
