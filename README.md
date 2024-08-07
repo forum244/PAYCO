@@ -43,4 +43,5 @@ $ python main.py
 Untuk membuka kembali, jalankan perintah berikut:
 
 $ cd PAYCO
+
 $ python main py
