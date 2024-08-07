@@ -23,11 +23,17 @@ Instalasi BOT PAYCO
 2. Jalankan perintah berikut:
 
 $ pkg update && pkg upgrade
+
 $ pkg install git
+
 $ pkg install python3
+
 $ git clone https://github.com/forum244/PAYCO
+
 $ cd PAYCO
+
 $ pip install -r requirements.txt
+
 $ python main.py
 
 3. Buat password PAYCO dan Input License key saat diminta.
