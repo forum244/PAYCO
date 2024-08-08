@@ -12,7 +12,7 @@
     <br />
  
  </p>
-👉Telegram <a
+👉Telegram Admin <a
  href="https://t.me/forumkt">Click Here</a>
     
   </p>
