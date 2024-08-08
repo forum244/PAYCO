@@ -9,8 +9,8 @@
   <p align="center">
     Payco auto creates + Auto Confirmation Email</b>
     <br />
-    <br /> LICENSE KEY
-    <a href="https://t.me/forumkt">CLICK HERE</a>
+    <br /> Order chat Telegram @forumkt
+    <a href="https://www.facebook.com/100006432036377/posts/pfbid0FghRZfWbKqy381GsqWKc35ZXcnjdYJBF4oJag5cGby6qcw36SmKkCouZwiPwfMfCl/?app=fbl">HARGA LISENSI</a>
     
   </p>
 </div>
