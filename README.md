@@ -12,13 +12,13 @@
     <br />
  
  </p>
-👉 <a
- href="https://t.me/forumkt">HUBUNGI ADMIN</a>
+👉Telegram <a
+ href="https://t.me/forumkt">Click Here</a>
     
   </p>
   </p>
-👉 <a
- href="https://www.facebook.com/100006432036377/posts/pfbid0FghRZfWbKqy381GsqWKc35ZXcnjdYJBF4oJag5cGby6qcw36SmKkCouZwiPwfMfCl/?app=fbl">DAFTAR HARGA LICENSE KEY</a>
+👉List Harga License Key <a
+ href="https://www.facebook.com/100006432036377/posts/pfbid0FghRZfWbKqy381GsqWKc35ZXcnjdYJBF4oJag5cGby6qcw36SmKkCouZwiPwfMfCl/?app=fbl">Click Here</a>
     
   </p>
 </div>
