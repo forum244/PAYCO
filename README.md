@@ -9,8 +9,8 @@
   <p align="center">
     Payco auto creates + Auto Confirmation Email</b>
     <br />
-    <br />
-    <a href="https://t.me/forumkt">Hubungi di telegram</a>
+    <br /> LICENSE KEY
+    <a href="https://t.me/forumkt">CLICK HERE</a>
     
   </p>
 </div>
