@@ -7,7 +7,7 @@
   <h2 align="center">Payco Automator Bot</h3>
 
   <p align="center">
-    Payco auto creates + Auto Confirmation Email</b>
+    Payco otomatis membuat + Email Konfirmasi Otomatis</b>
     <br />
     <br />
  
